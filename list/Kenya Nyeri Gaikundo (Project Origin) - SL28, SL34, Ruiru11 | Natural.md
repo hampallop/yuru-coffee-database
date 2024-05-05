@@ -2,16 +2,16 @@
 
 ## Basic info:
 
-Washing Station: Gaikundo
-Varietals: SL-28, SL-34, Ruiru-11
-Processing: Natural
-Altitude: 1600 to 2000 masl
-Owner: Various smallholder farmers
-Town: kagumo
-Region: Nyeri
-Country: Kenya
-Total size of farm: Under 1 hectare on average
-Taste Notes: Blood orange, Raspberry lemonade, The aromatics are perfumed and intense. Brown sugar and caramel.
+- Washing Station: Gaikundo
+- Varietals: SL-28, SL-34, Ruiru-11
+- Processing: Natural
+- Altitude: 1600 to 2000 masl
+- Owner: Various smallholder farmers
+- Town: kagumo
+- Region: Nyeri
+- Country: Kenya
+- Total size of farm: Under 1 hectare on average
+- Taste Notes: Blood orange, Raspberry lemonade, The aromatics are perfumed and intense. Brown sugar and caramel.
 
 ### Additional information:
 

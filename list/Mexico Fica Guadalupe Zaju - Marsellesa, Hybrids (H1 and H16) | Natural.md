@@ -2,17 +2,17 @@
 
 ## Basic info:
 
-Farm: Finca Guadalupe Zaju
-Varietals: Marsellesa, Hybrids (H1 and H16)
-Processing: Natural
-Altitude: 900-1400
-Owner: Teddy Esteve & Family
-Town: Toquian Grande & Pavencul, Soconusco Region
-Region: Chiapas
-Country: Mexico
-Total size of farm: 310 hectares
-Area under coffee: 160 hectares
-Taste Notes: Jack fruit aroma, Juicy, grape, Oolong tea and hints of mints finishing
+- Farm: Finca Guadalupe Zaju
+- Varietals: Marsellesa, Hybrids (H1 and H16)
+- Processing: Natural
+- Altitude: 900-1400
+- Owner: Teddy Esteve & Family
+- Town: Toquian Grande & Pavencul, Soconusco Region
+- Region: Chiapas
+- Country: Mexico
+- Total size of farm: 310 hectares
+- Area under coffee: 160 hectares
+- Taste Notes: Jack fruit aroma, Juicy, grape, Oolong tea and hints of mints finishing
 
 ### Additional information:
 

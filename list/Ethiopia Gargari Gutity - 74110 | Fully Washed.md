@@ -2,16 +2,16 @@
 
 ## Basic info:
 
-Washing Station Owner: Mr. Birhanu Geda / Primrose Service Provider PLC
-Varietal: Local Landraces 74110
-Processing: Fully Washed
-Altitude: 1,983 meters above sea level
-Farm Owners: Various smallholder producers
-GPS: Latitude: 5.531 Longitude: 38.1916
-Region: SNNPR, Gediyo, Gedeb, Banko, Gutity
-Country: Ethiopia
-Average Farm Size: Less than 1 hectare
-Taste Notes: Floral, dark cherry, currant, raspberry, aromatic of rosemary and lemon
+- Washing Station Owner: Mr. Birhanu Geda / Primrose Service Provider PLC
+- Varietal: Local Landraces 74110
+- Processing: Fully Washed
+- Altitude: 1,983 meters above sea level
+- Farm Owners: Various smallholder producers
+- GPS: Latitude: 5.531 Longitude: 38.1916
+- Region: SNNPR, Gediyo, Gedeb, Banko, Gutity
+- Country: Ethiopia
+- Average Farm Size: Less than 1 hectare
+- Taste Notes: Floral, dark cherry, currant, raspberry, aromatic of rosemary and lemon
 
 ### Additional information:
 Grown in the well-known Yirgacheffe region of Ethiopia, this coffee comes from a collection of smallholder producers in the town of Gedeb.

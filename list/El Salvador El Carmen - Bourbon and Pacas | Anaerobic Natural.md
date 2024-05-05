@@ -2,16 +2,16 @@
 
 ## Basic info:
 
-Farm: El Carmen Estate & Beneficio
-Varietal: Bourbon and Pacas
-Processing: Anaerobic Natural
-Altitude: 1,300 metres above sea level
-Owner: Fernando Alfaro & Family
-Town: Ataco
-Region: Apaneca-Ilamatepec, Ahuachapán
-Country: El Salvador
-Total size of farm: 70 hectares
-Taste Notes: Floral and jammy red fruits. Think raspberry maceration, pink guava, dark cherries and molasses. Lovely honey black tea aftertaste.
+- Farm: El Carmen Estate & Beneficio
+- Varietal: Bourbon and Pacas
+- Processing: Anaerobic Natural
+- Altitude: 1,300 metres above sea level
+- Owner: Fernando Alfaro & Family
+- Town: Ataco
+- Region: Apaneca-Ilamatepec, Ahuachapán
+- Country: El Salvador
+- Total size of farm: 70 hectares
+- Taste Notes: Floral and jammy red fruits. Think raspberry maceration, pink guava, dark cherries and molasses. Lovely honey black tea aftertaste.
 
 ### Additional information:
 

@@ -4,16 +4,16 @@ source: https://royalcoffee.com/product/3427097000015380161
 
 ## Basic info:
 
-Taste Notes: Pink flower, Grapefruit, Dried fig, Chocolate, Chunky mouthfeel
+- Taste Notes: Pink flower, Grapefruit, Dried fig, Chocolate, Chunky mouthfeel
 
-Grower: 14 producers | Terra Coffee SAS
-Variety: Pink Bourbon
-Region: Palestina, Huila, Colombia
-Harvest: June - August | October – December
-Altitude: 1600-1800 masl
-Soil: Clay minerals
-Process: Fully washed and dried inside solar dryers that provide protection from the rain
-Certification: Conventional
+- Grower: 14 producers | Terra Coffee SAS
+- Variety: Pink Bourbon
+- Region: Palestina, Huila, Colombia
+- Harvest: June - August | October – December
+- Altitude: 1600-1800 masl
+- Soil: Clay minerals
+- Process: Fully washed and dried inside solar dryers that provide protection from the rain
+- Certification: Conventional
 
 ### Additional information:
 

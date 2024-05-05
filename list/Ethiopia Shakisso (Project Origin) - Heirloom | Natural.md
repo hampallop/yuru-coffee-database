@@ -2,4 +2,4 @@
 
 ## Basic info:
 
-Taste Notes: Chocolate, Juicy, Herbs, Hop, Floral
+- Taste Notes: Chocolate, Juicy, Herbs, Hop, Floral

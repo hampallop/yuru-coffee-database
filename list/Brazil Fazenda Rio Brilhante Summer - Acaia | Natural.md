@@ -2,17 +2,17 @@
 
 ## Basic info:
 
-Farm: Rio Brilhante
-Varietal: Acaia
-Processing: Natural
-Altitude: 1,050 meters above sea level
-Owner: Inacio Carlos Urban
-Town: Coromandel
-Region: Cerrado
-Country: Brazil
-Size of Farm: 2,350 hectares Area
-Under Coffee: 1,627 hectares
-Taste Notes: Black plums and earl grey, with undertones of chocolate, molasses and almond. Round medium bodied.
+- Farm: Rio Brilhante
+- Varietal: Acaia
+- Processing: Natural
+- Altitude: 1,050 meters above sea level
+- Owner: Inacio Carlos Urban
+- Town: Coromandel
+- Region: Cerrado
+- Country: Brazil
+- Size of Farm: 2,350 hectares
+- Area Under Coffee: 1,627 hectares
+- Taste Notes: Black plums and earl grey, with undertones of chocolate, molasses and almond. Round medium bodied.
 
 ### Additional information:
 

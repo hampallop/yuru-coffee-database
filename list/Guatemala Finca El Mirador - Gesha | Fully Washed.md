@@ -2,17 +2,17 @@
 
 ## Basic info:
 
-Origin: Guatemala
-Farm: Finca El Mirador
-Varietal: Gesha
-Processing: Fully Washed
-Altitude: 1,500 metres above sea level
-Owner: Karla Coto
-Town: San Pedro Yepocapa
-Region: Acatenango
-Country: Guatemala
-Total size of farm: 7 hectares
-Tasting Notes: Rose and jasmine florals with juicy sweet yellow peach, honey and black tea. Balanced wiith a rounded body with notes of creamy cashew.
+- Origin: Guatemala
+- Farm: Finca El Mirador
+- Varietal: Gesha
+- Processing: Fully Washed
+- Altitude: 1,500 metres above sea level
+- Owner: Karla Coto
+- Town: San Pedro Yepocapa
+- Region: Acatenango
+- Country: Guatemala
+- Total size of farm: 7 hectares
+- Tasting Notes: Rose and jasmine florals with juicy sweet yellow peach, honey and black tea. Balanced with a rounded body with notes of creamy cashew.
 
 ### Additional information:
 

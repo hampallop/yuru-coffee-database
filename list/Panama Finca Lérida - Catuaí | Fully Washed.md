@@ -1,17 +1,18 @@
 # Panama Finca Lérida - Catuaí | Fully Washed
 
 ## Basic info:
-Farm: Finca Lérida – Lérida Estate
-Varietal: Catuaí
-Processing: Fully Washed
-Altitude: 1,600 to 2,050 masl
-Owner: Maria Antonella Amoruso
-Town: Alto Quiel
-Region: Boquete
-Country: Panama
-Total size of Finca Lérida: 143 hectares
-Size of Lérida Estate: 70 hectares
-Taste Notes: Red grape, juicy, green tea, sweet toffee aftertaste, medium body, smooth
+
+- Farm: Finca Lérida – Lérida Estate
+- Varietal: Catuaí
+- Processing: Fully Washed
+- Altitude: 1,600 to 2,050 masl
+- Owner: Maria Antonella Amoruso
+- Town: Alto Quiel
+- Region: Boquete
+- Country: Panama
+- Total size of Finca Lérida: 143 hectares
+- Size of Lérida Estate: 70 hectares
+- Taste Notes: Red grape, juicy, green tea, sweet toffee aftertaste, medium body, smooth
 
 ### Additional information:
 

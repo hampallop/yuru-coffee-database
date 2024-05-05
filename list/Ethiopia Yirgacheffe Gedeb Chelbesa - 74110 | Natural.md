@@ -2,17 +2,12 @@
 
 ## Basic info:
 
-**Flavor Notes:** Tropical and juicy, Load of pineapple, Lychee, Mango and peach, layered with melon and mandarin, Super floral with a round full body.
-
-**Origin:** Ethiopia
-
-**Region:** Gedeb, Yirgacheffe
-
-**Altitude:** 1,950–2,200 masl
-
-**Variety:** 74110 & local landrace
-
-**Process:** Natural
+- Taste Notes: Tropical and juicy, Load of pineapple, Lychee, Mango and peach, layered with melon and mandarin, Super floral with a round full body.
+- Origin: Ethiopia
+- Region: Gedeb, Yirgacheffe
+- Altitude: 1,950–2,200 masl
+- Variety: 74110 & local landrace
+- Process: Natural
 
 ### Farm Info:
 

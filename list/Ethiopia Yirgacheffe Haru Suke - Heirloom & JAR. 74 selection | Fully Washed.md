@@ -2,16 +2,16 @@
 
 ## Basic info:
 
-Washing Station Owner: Primrose S.P. PLC
-Varietals: Local Landraces & JARC 74 selections
-Processing: Fully washed & dried on beds
-Altitude: 2,000 to 2,200 masl
-Owner: Various smallholder farmers
-Town: Haru Suke
-Region: Southern Nations, Gedeo, Yirgacheffe
-Country: Ethiopia
-Total size of farm: Under 1 hectare on average
-Taste Notes: Orange blossom, Pomelo, Lemongrass, Bergamot, Coconut sugar
+- Washing Station Owner: Primrose S.P. PLC
+- Varietals: Local Landraces & JARC 74 selections
+- Processing: Fully washed & dried on beds
+- Altitude: 2,000 to 2,200 masl
+- Owner: Various smallholder farmers
+- Town: Haru Suke
+- Region: Southern Nations, Gedeo, Yirgacheffe
+- Country: Ethiopia
+- Total size of farm: Under 1 hectare on average
+- Taste Notes: Orange blossom, Pomelo, Lemongrass, Bergamot, Coconut sugar
 
 ### Additional information:
 

@@ -2,17 +2,17 @@
 
 ## Basic info:
 
-Farm: Finca Lérida - Lérida Estate
-Varietal: SL28
-Processing: Natural
-Altitude: 1,600 to 2,050 metres above sea level
-Owner: Maria Antonella Amoruso
-Town: Alto Quiel
-Region: Boquete
-Country: Panama
-Total size of Finca Lérida: 143 hectares
-Size of Lérida Estate: 70 hectares
-Taste Notes: Jasmine, Thyme, Oolongs, Orange, Persimmons, Dashi, Caramel Toffee
+- Farm: Finca Lérida - Lérida Estate
+- Varietal: SL28
+- Processing: Natural
+- Altitude: 1,600 to 2,050 metres above sea level
+- Owner: Maria Antonella Amoruso
+- Town: Alto Quiel
+- Region: Boquete
+- Country: Panama
+- Total size of Finca Lérida: 143 hectares
+- Size of Lérida Estate: 70 hectares
+- Taste Notes: Jasmine, Thyme, Oolongs, Orange, Persimmons, Dashi, Caramel Toffee
 
 ### Additional information:
 

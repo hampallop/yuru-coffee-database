@@ -2,15 +2,15 @@
 
 ## Basic info:
 
-Grower: 70 youth associated with Asociación Barillense de Agricultores (ASOBAGRI)
-Altitude: 1100-1650 masl
-Variety: Bourbon, Caturra, Sarchimor, Anacafe, and Villalobos
-Soil: Volcanic loam
-Region: Santa Cruz Barillas, Huehuetenango, Guatemala
-Process: Fully washed and dried on patios and raised beds
-Harvest: December - May
-Certification: Fair Trade | Organic
-Taste Notes: Lime zest, caramel, dark chocolate, rich chocolate, bittersweetness, red apple, tangerine
+- Grower: 70 youth associated with Asociación Barillense de Agricultores (ASOBAGRI)
+- Altitude: 1100-1650 masl
+- Variety: Bourbon, Caturra, Sarchimor, Anacafe, and Villalobos
+- Soil: Volcanic loam
+- Region: Santa Cruz Barillas, Huehuetenango, Guatemala
+- Process: Fully washed and dried on patios and raised beds
+- Harvest: December - May
+- Certification: Fair Trade | Organic
+- Taste Notes: Lime zest, caramel, dark chocolate, rich chocolate, bittersweetness, red apple, tangerine
 
 ### Coffee Background:
 
