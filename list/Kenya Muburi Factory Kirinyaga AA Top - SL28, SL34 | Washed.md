@@ -1,6 +1,6 @@
 # Kenya Muburi Factory Kirinyaga AA Top - SL28, SL34 | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Kenya
 - Altitude: 1650 masl

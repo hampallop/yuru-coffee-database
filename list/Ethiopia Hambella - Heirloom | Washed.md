@@ -1,6 +1,6 @@
 # Ethiopia Hambella - Heirloom | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Ethiopia
 - Region: Guji, Oromia

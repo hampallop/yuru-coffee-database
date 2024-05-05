@@ -1,6 +1,6 @@
 # Ethiopia Sidamo Daeromo - 74158 | Washed
 
-## Basic info:
+## Basic info
 
 - 2023 Crop
 - Origin: Ethiopia

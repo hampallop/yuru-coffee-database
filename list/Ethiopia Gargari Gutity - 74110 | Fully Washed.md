@@ -1,6 +1,6 @@
 # Ethiopia Gargari Gutity - 74110 | Fully Washed
 
-## Basic info:
+## Basic info
 
 - Washing Station Owner: Mr. Birhanu Geda / Primrose Service Provider PLC
 - Varietal: Local Landraces 74110
@@ -13,7 +13,8 @@
 - Average Farm Size: Less than 1 hectare
 - Taste Notes: Floral, dark cherry, currant, raspberry, aromatic of rosemary and lemon
 
-### Additional information:
+### Additional information
+
 Grown in the well-known Yirgacheffe region of Ethiopia, this coffee comes from a collection of smallholder producers in the town of Gedeb.
 
 Coffee is a family crop - grown by households within small gardens, on less than one hectare of land. Producers line their homes with coffee trees, and it is the primary source of income. It is common for producers to intercrop enset, the Ethiopian banana, avocados, and papaya to have additional food sources.
@@ -30,7 +31,7 @@ Once dried, the beans are trucked to the dry mill, located near the capital city
 
 Varieties of coffee grown here are traditionally referred to as 'heirloom' by exporters - a catchall terminology which often masks the wide assortment of varieties that may be present within various regions...even, within farms. Many of these varieties will have been developed by Ethiopia's Jimma Agricultural Research Centre (JARC), which, since the late 1960s, has worked to develop resistant and tasty varieties for the Ethiopian coffee industry and also to provide the agricultural extension training needed to cultivate them.
 
-### About the Yirgacheffe Region:
+### About the Yirgacheffe Region
 
 Yirgacheffe is actually part of the Gedeo Zone, Southern Nations region, in southern Ethiopia, but its exquisite, washed coffees are so well-known that is has been sub-divided into its own micro-region. This steep, green area is both fertile and high - much of the coffee grows at 2,000m and above.
 
@@ -40,7 +41,7 @@ Around 85 per cent of Ethiopians still live rurally and make a living from agric
 
 There is only one main harvest a year in Ethiopia - this usually takes place in November and December across all of the country's growing regions. There are, on average, 4 passes made during the harvest period, and, in regions that produce both washed and naturals, the last pass is used for the natural coffee. Washed coffees are then generally pulped on the same day that they are picked (usually in the evening/night), sorted into three grades by weight (heavy, medium and floaters), fermented (times vary - usually between 16 and 48 hours), washed and then usually graded again in the washing channels. The beans are then dried on African beds, where they are hand-sorted, usually by women.
 
-### About the Ethiopian Commodity Exchange and Traceability:
+### About the Ethiopian Commodity Exchange and Traceability
 
 For many years, Ethiopian coffee, some of the best in the world, was for the most part untraceable.
 

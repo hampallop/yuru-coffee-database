@@ -1,6 +1,6 @@
 # Ethiopia Limu - Gesha | Natural
 
-## Basic info:
+## Basic info
 
 - Origin: Ethiopia
 - Region: Jimma, Limu

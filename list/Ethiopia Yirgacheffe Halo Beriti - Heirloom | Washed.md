@@ -1,6 +1,6 @@
 # Ethiopia Yirgacheffe Halo Beriti - Heirloom | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Ethiopia
 - Region: Yirgacheffe

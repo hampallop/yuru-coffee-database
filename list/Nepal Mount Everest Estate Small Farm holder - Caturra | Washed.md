@@ -1,6 +1,6 @@
 # Nepal Mount Everest Estate Small Farm holder - Caturra | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Nepal
 - Region: Mount Everest Estate

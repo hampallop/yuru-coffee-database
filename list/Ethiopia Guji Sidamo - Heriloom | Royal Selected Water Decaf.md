@@ -1,6 +1,6 @@
 # Ethiopia Guji Sidamo - Heriloom | Royal Selected Water Decaf
 
-## Basic info:
+## Basic info
 
 - Origin: Ethiopia
 - Region: Guji，Sidamo

@@ -1,6 +1,6 @@
 # Peru La Montaña - Gesha | Fully Washed
 
-## Basic info:
+## Basic info
 
 - Farm: La Montaña
 - Varietals: Gesha

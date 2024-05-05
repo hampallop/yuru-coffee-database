@@ -1,6 +1,6 @@
 # El Salvador El Carmen - Bourbon and Pacas | Anaerobic Natural
 
-## Basic info:
+## Basic info
 
 - Farm: El Carmen Estate & Beneficio
 - Varietal: Bourbon and Pacas
@@ -13,7 +13,7 @@
 - Total size of farm: 70 hectares
 - Taste Notes: Floral and jammy red fruits. Think raspberry maceration, pink guava, dark cherries and molasses. Lovely honey black tea aftertaste.
 
-### Additional information:
+### Additional information
 
 El Carmen Estate is located at 1,300m above sea level in El Salvador’s Apaneca-Ilamatepec mountain range, one of Central America’s prime specialty coffee producing areas. The estate has been farmed by the Alfaro family for over a century.
 

@@ -1,6 +1,6 @@
 # Peru El Cedro - Gesha | Natural
 
-## Basic info:
+## Basic info
 
 - Farm: El Cedro
 - Varietals: Gesha

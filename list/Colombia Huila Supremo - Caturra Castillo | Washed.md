@@ -1,6 +1,6 @@
 # Colombia Huila Supremo - Caturra Castillo | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Colombia
 - Farm/Region: Antioquia

@@ -1,6 +1,6 @@
 # Colombia Popayan Reserve - Catuai, Caturra, Castillo | Sugarcane Decaf
 
-## Basic info:
+## Basic info
 
 - Origin: Colombia
 - Region: Cauca

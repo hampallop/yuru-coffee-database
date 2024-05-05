@@ -1,6 +1,6 @@
 # Ethiopia Keffa - Wush Wush | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Ethiopia
 - Region: Keffa，Southern Ethiopia
@@ -9,4 +9,4 @@
 - Plant Varietal: Heirloom (Wush Wush)
 - Tasting Notes: White Floral, Orange, Apricot, Nectarine, Pear
 
-more info: https://projectorigin.coffee/wush-wush
+more info: <https://projectorigin.coffee/wush-wush>

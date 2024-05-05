@@ -1,6 +1,6 @@
 # Guatemala Finca El Mirador - Gesha | Fully Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Guatemala
 - Farm: Finca El Mirador
@@ -14,7 +14,7 @@
 - Total size of farm: 7 hectares
 - Tasting Notes: Rose and jasmine florals with juicy sweet yellow peach, honey and black tea. Balanced with a rounded body with notes of creamy cashew.
 
-### Additional information:
+### Additional information
 
 Coffee first arrived in Guatemala in the 18th century with Jesuits to the monasteries of Antigua. Estates began to spread over the following 150 years, primarily owned by European colonists. The country gained independence in 1821, and coffee production soared, making Guatemala an important coffee producer.
 

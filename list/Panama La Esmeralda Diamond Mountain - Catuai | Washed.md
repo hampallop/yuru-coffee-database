@@ -1,6 +1,6 @@
 # Panama La Esmeralda Diamond Mountain - Catuai | Washed
 
-## Basic info:
+## Basic info
 
 - Origin: Panama
 - Region: Boquete

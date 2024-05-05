@@ -1,6 +1,6 @@
 # Ethiopia Yirgacheffe Gedeb Chelbesa - 74110 | Natural
 
-## Basic info:
+## Basic info
 
 - Taste Notes: Tropical and juicy, Load of pineapple, Lychee, Mango and peach, layered with melon and mandarin, Super floral with a round full body.
 - Origin: Ethiopia
@@ -9,7 +9,7 @@
 - Variety: 74110 & local landrace
 - Process: Natural
 
-### Farm Info:
+### Farm Info
 
 Gedeb Chelbesa Natural is named for the kebele, or village, where the coffee is harvested. The growers from the Chelbesa kebele bring their cherries to METAD’s Gedeb Halo Beriti washing station in Gedeb, Yirgacheffe for further processing.
 

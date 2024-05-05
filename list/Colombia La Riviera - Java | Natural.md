@@ -1,6 +1,6 @@
 # Colombia La Riviera - Java | Natural
 
-## Basic info:
+## Basic info
 
 - Origin: Colombia
 - Region: Santa Rosa del Cabal, Risaralda

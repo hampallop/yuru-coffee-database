@@ -1,6 +1,6 @@
 # Colombia Bolivar - Maragogype | Natural
 
-## Basic info:
+## Basic info
 
 - Origin: Colombia
 - Region: Huila

@@ -1,6 +1,6 @@
 # Brazil Ipanema AURA MAGNA B23 Red Fruits Gold Edition - Yellow Bourbon | Natural
 
-## Basic info:
+## Basic info
 
 This Natural Yellow Bourbon presents a creamy body, high sweetness, fruity and pleasant aftertaste. Its cup profile brings out Red Fruits.
 

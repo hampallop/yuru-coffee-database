@@ -1,8 +1,8 @@
 # Costa Rica Santa Teresa (CoE 8th 2022) - Gesha | Natural
 
-source: https://farmdirectory.cupofexcellence.org/listing/8-santa-teresa-costa-rica-2022-cup-of-excellence
+source: <https://farmdirectory.cupofexcellence.org/listing/8-santa-teresa-costa-rica-2022-cup-of-excellence>
 
-## Basic info:
+## Basic info
 
 - Origin: Costa Rica
 - Farm Name: Santa Teresa

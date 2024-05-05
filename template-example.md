@@ -1,14 +1,15 @@
-# Name:
+# Name
 
 A way to identify coffee. A combination of;
-```
+
+```text
 [origin] [owner/farm/region] [varietal] [process]
 ```
 
 e.g.;
 Ethiopia Gelana - Gori Gesha | Natural
 
-# Basic info:
+## Basic info
 
 - Origin：Ethiopia
 - Region：Yirgacheffe

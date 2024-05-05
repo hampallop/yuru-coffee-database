@@ -1,6 +1,6 @@
 # Panama Abu GN-2936 - Gesha | Natural
 
-## Basic info:
+## Basic info
 
 - Origin：Panama
 - Region: Boquete, Chiriqui

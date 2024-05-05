@@ -1,6 +1,6 @@
 # Panama Finca Lerida - SL28 | Natural
 
-## Basic info:
+## Basic info
 
 - Farm: Finca Lérida - Lérida Estate
 - Varietal: SL28
@@ -14,7 +14,7 @@
 - Size of Lérida Estate: 70 hectares
 - Taste Notes: Jasmine, Thyme, Oolongs, Orange, Persimmons, Dashi, Caramel Toffee
 
-### Additional information:
+### Additional information
 
 This extraordinary coffee hails from the world-famous Finca Lérida - the first coffee plantation ever established in Panama and still renowned today as producing some of the best and most desirable coffees in the world. With its idyllic setting and fascinating origin story, it's no wonder that they are so well-known. But the true secret of its reputation lies in the cup. Finca Lérida is comprised of five different farms, including the Lérida Estate, where this lot was grown.
 

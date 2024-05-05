@@ -1,6 +1,6 @@
 # Mexico Fica Guadalupe Zaju - Marsellesa, Hybrids (H1 and H16) | Natural
 
-## Basic info:
+## Basic info
 
 - Farm: Finca Guadalupe Zaju
 - Varietals: Marsellesa, Hybrids (H1 and H16)
@@ -14,7 +14,7 @@
 - Area under coffee: 160 hectares
 - Taste Notes: Jack fruit aroma, Juicy, grape, Oolong tea and hints of mints finishing
 
-### Additional information:
+### Additional information
 
 Representing roughly 2% of global coffee production. Mexico is well-known for its coffee grown in the Chiapas and Oaxacan regions situated in the souther reaches of the country. Coffee first arrived in Mexico with the Spanish colonists in the 18 century. After independence from Spain, the country, although in turmoil, began to slowly cultivate coffee plantations in the southern states. Border disputes with Guatemala ensued as Europeans bought up large swathes of land, pushing indigenous populations into the mountains.
 

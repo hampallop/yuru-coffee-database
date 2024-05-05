@@ -1,6 +1,6 @@
 # Indonesia Sumatra Lintong - Typica, Ateng | Wet Hulled
 
-## Basic info:
+## Basic info
 
 - Origin: Indonesia
 - Region: Lake Toba

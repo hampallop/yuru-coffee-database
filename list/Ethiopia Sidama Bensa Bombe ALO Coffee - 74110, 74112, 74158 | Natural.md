@@ -1,6 +1,6 @@
 # Ethiopia Sidama Bensa Bombe ALO Coffee - 74110, 74112, 74158 | Natural
 
-## Basic info:
+## Basic info
 
 - About Alo Coffee:
 CoE Rank1 of 2021 Producer and Estate.

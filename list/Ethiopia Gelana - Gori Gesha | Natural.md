@@ -1,6 +1,6 @@
 # Ethiopia Gelana - Gori Gesha | Natural
 
-## Basic info:
+## Basic info
 
 - Origin：Ethiopia
 - Region：Yirgacheffe

@@ -1,6 +1,6 @@
 # Brazil Fazenda Rio Brilhante Summer - Acaia | Natural
 
-## Basic info:
+## Basic info
 
 - Farm: Rio Brilhante
 - Varietal: Acaia
@@ -14,7 +14,7 @@
 - Area Under Coffee: 1,627 hectares
 - Taste Notes: Black plums and earl grey, with undertones of chocolate, molasses and almond. Round medium bodied.
 
-### Additional information:
+### Additional information
 
 Inacio first arrived in Minas Gerais in 1976 with the dream of producing great coffee via sustainable and innovative practices. After acquiring his own farm in Cerrado Mineiro in 1984, Rio Brilhante has grown to become one of the biggest farms in the region, as well as one of the largest in the country; spanning over 2000 hectares. Since Inacio planted those first trees over 30 years ago, he has continued to strive for excellence within the speciality industry, mainly via his use of rigorous quality control methods.
 

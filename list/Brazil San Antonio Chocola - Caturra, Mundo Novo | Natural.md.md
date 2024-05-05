@@ -1,6 +1,6 @@
 # Brazil San Antonio Chocola - Caturra, Mundo Novo | Natural
 
-## Basic info:
+## Basic info
 
 - Origin: Brazil
 - Region: San Antonio
