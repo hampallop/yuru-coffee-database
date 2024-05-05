@@ -1,9 +1,19 @@
 # YURU coffee database
 
-## Markdown Lint
+## Usage
 
-By [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
+- Markdownlint
 
 ```shell
-markdownlint '**/*.md' --fix
+npm run markdownlint
 ```
+
+- Create catalog
+
+```shell
+npm run generate-markdown-table
+```
+
+## Coffee Catalog
+
+[Catalog](./catalog.md)
