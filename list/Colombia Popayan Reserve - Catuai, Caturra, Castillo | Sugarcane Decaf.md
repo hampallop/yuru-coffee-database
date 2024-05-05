@@ -1,4 +1,4 @@
-# Colombia Popayan Reserve - Sugarcane Decaf
+# Colombia Popayan Reserve - Catuai, Caturra, Castillo | Sugarcane Decaf
 
 ## Basic info:
 

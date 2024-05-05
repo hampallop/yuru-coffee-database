@@ -1,4 +1,4 @@
-# Panama Abu GN-2936 - Gesha Natural
+# Panama Abu GN-2936 - Gesha | Natural
 
 ## Basic info:
 
